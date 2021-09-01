@@ -5,7 +5,7 @@ public class Computer {
 
     private boolean isGraphicsCardEnabled;
 
-    public String getHDD() {
+    public String getSSD() {
         return SSD;
     }
 
